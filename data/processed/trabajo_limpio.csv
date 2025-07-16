@@ -1,0 +1,885 @@
+provincia,cantón,área_de_residencia,sexo,número_total_de_personas_de_15_años_o_más,ocupada,desocupada,fuera_de_la_fuerza_de_trabajo
+AZUAY,Cuenca,Urbana,Hombres,132639,90621,5701,36317
+AZUAY,Cuenca,Urbana,Mujeres,152814,83461,6624,62729
+AZUAY,Cuenca,Rural,Hombres,78984,53544,3914,21526
+AZUAY,Cuenca,Rural,Mujeres,94392,42974,4555,46863
+AZUAY,Girón,Urbana,Hombres,1390,906,82,402
+AZUAY,Girón,Urbana,Mujeres,1818,852,116,850
+AZUAY,Girón,Rural,Hombres,2597,1519,146,932
+AZUAY,Girón,Rural,Mujeres,3284,1104,157,2023
+AZUAY,Gualaceo,Urbana,Hombres,4458,3049,212,1197
+AZUAY,Gualaceo,Urbana,Mujeres,5659,3037,255,2367
+AZUAY,Gualaceo,Rural,Hombres,9042,5793,543,2706
+AZUAY,Gualaceo,Rural,Mujeres,12178,4612,648,6918
+AZUAY,Nabón,Urbana,Hombres,399,278,11,110
+AZUAY,Nabón,Urbana,Mujeres,559,311,18,230
+AZUAY,Nabón,Rural,Hombres,4545,2414,333,1798
+AZUAY,Nabón,Rural,Mujeres,5686,1622,208,3856
+AZUAY,Paute,Urbana,Hombres,2897,2019,125,753
+AZUAY,Paute,Urbana,Mujeres,3657,1923,153,1581
+AZUAY,Paute,Rural,Hombres,5917,3518,348,2051
+AZUAY,Paute,Rural,Mujeres,7616,2957,346,4313
+AZUAY,Pucará,Urbana,Hombres,300,188,9,103
+AZUAY,Pucará,Urbana,Mujeres,337,110,1,226
+AZUAY,Pucará,Rural,Hombres,2945,1427,390,1128
+AZUAY,Pucará,Rural,Mujeres,3436,778,154,2504
+AZUAY,San Fernando,Urbana,Hombres,463,301,22,140
+AZUAY,San Fernando,Urbana,Mujeres,619,266,15,338
+AZUAY,San Fernando,Rural,Hombres,741,491,25,225
+AZUAY,San Fernando,Rural,Mujeres,1046,461,42,543
+AZUAY,Santa Isabel,Urbana,Hombres,2083,1474,79,530
+AZUAY,Santa Isabel,Urbana,Mujeres,2502,1361,110,1031
+AZUAY,Santa Isabel,Rural,Hombres,5012,3305,217,1490
+AZUAY,Santa Isabel,Rural,Mujeres,5751,2061,260,3430
+AZUAY,Sígsig,Urbana,Hombres,1273,887,51,335
+AZUAY,Sígsig,Urbana,Mujeres,1659,886,40,733
+AZUAY,Sígsig,Rural,Hombres,6160,3786,408,1966
+AZUAY,Sígsig,Rural,Mujeres,8962,4419,298,4245
+AZUAY,Oña,Urbana,Hombres,330,248,14,68
+AZUAY,Oña,Urbana,Mujeres,395,185,17,193
+AZUAY,Oña,Rural,Hombres,828,481,67,280
+AZUAY,Oña,Rural,Mujeres,1036,331,73,632
+AZUAY,Chordeleg,Urbana,Hombres,1508,1019,55,434
+AZUAY,Chordeleg,Urbana,Mujeres,1799,913,67,819
+AZUAY,Chordeleg,Rural,Hombres,2341,1687,105,549
+AZUAY,Chordeleg,Rural,Mujeres,3225,1934,89,1202
+AZUAY,El Pan,Urbana,Hombres,164,112,7,45
+AZUAY,El Pan,Urbana,Mujeres,226,95,6,125
+AZUAY,El Pan,Rural,Hombres,839,418,72,349
+AZUAY,El Pan,Rural,Mujeres,977,347,22,608
+AZUAY,Sevilla de Oro,Urbana,Hombres,260,164,17,79
+AZUAY,Sevilla de Oro,Urbana,Mujeres,306,125,29,152
+AZUAY,Sevilla de Oro,Rural,Hombres,1357,822,91,444
+AZUAY,Sevilla de Oro,Rural,Mujeres,1574,755,83,736
+AZUAY,Guachapala,Urbana,Hombres,418,306,18,94
+AZUAY,Guachapala,Urbana,Mujeres,499,266,26,207
+AZUAY,Guachapala,Rural,Hombres,844,538,53,253
+AZUAY,Guachapala,Rural,Mujeres,954,412,60,482
+AZUAY,Camilo Ponce Enríquez,Urbana,Hombres,3342,2638,129,575
+AZUAY,Camilo Ponce Enríquez,Urbana,Mujeres,3686,1608,183,1895
+AZUAY,Camilo Ponce Enríquez,Rural,Hombres,4389,3290,210,889
+AZUAY,Camilo Ponce Enríquez,Rural,Mujeres,4471,1520,196,2755
+BOLIVAR,Guaranda,Urbana,Hombres,10965,6132,900,3933
+BOLIVAR,Guaranda,Urbana,Mujeres,13026,6081,993,5952
+BOLIVAR,Guaranda,Rural,Hombres,22340,10503,2563,9274
+BOLIVAR,Guaranda,Rural,Mujeres,25885,6428,1906,17551
+BOLIVAR,Chillanes,Urbana,Hombres,1139,712,70,357
+BOLIVAR,Chillanes,Urbana,Mujeres,1329,584,107,638
+BOLIVAR,Chillanes,Rural,Hombres,6136,3867,484,1785
+BOLIVAR,Chillanes,Rural,Mujeres,6198,1707,276,4215
+BOLIVAR,Chimbo,Urbana,Hombres,1594,938,109,547
+BOLIVAR,Chimbo,Urbana,Mujeres,1865,824,149,892
+BOLIVAR,Chimbo,Rural,Hombres,4094,2123,542,1429
+BOLIVAR,Chimbo,Rural,Mujeres,4516,1254,461,2801
+BOLIVAR,Echeandía,Urbana,Hombres,2502,1500,319,683
+BOLIVAR,Echeandía,Urbana,Mujeres,2815,1109,225,1481
+BOLIVAR,Echeandía,Rural,Hombres,2814,1705,272,837
+BOLIVAR,Echeandía,Rural,Mujeres,2856,811,156,1889
+BOLIVAR,San Miguel,Urbana,Hombres,3107,1781,190,1136
+BOLIVAR,San Miguel,Urbana,Mujeres,3711,1779,192,1740
+BOLIVAR,San Miguel,Rural,Hombres,7328,3867,848,2613
+BOLIVAR,San Miguel,Rural,Mujeres,7898,2093,477,5328
+BOLIVAR,Caluma,Urbana,Hombres,2714,1702,289,723
+BOLIVAR,Caluma,Urbana,Mujeres,3116,1228,233,1655
+BOLIVAR,Caluma,Rural,Hombres,2838,1680,222,936
+BOLIVAR,Caluma,Rural,Mujeres,3015,840,211,1964
+BOLIVAR,Las Naves,Urbana,Hombres,695,455,53,187
+BOLIVAR,Las Naves,Urbana,Mujeres,790,300,45,445
+BOLIVAR,Las Naves,Rural,Hombres,1886,1321,175,390
+BOLIVAR,Las Naves,Rural,Mujeres,1849,531,132,1186
+CANAR,Azogues,Urbana,Hombres,12411,7768,711,3932
+CANAR,Azogues,Urbana,Mujeres,15203,7672,896,6635
+CANAR,Azogues,Rural,Hombres,12495,7268,1029,4198
+CANAR,Azogues,Rural,Mujeres,16317,6242,1040,9035
+CANAR,Biblián,Urbana,Hombres,1892,1144,86,662
+CANAR,Biblián,Urbana,Mujeres,2493,1182,120,1191
+CANAR,Biblián,Rural,Hombres,4005,2088,314,1603
+CANAR,Biblián,Rural,Mujeres,5810,2013,331,3466
+CANAR,Cañar,Urbana,Hombres,4555,2868,274,1413
+CANAR,Cañar,Urbana,Mujeres,5584,2818,273,2493
+CANAR,Cañar,Rural,Hombres,12188,6392,1256,4540
+CANAR,Cañar,Rural,Mujeres,16041,4536,930,10575
+CANAR,La Troncal,Urbana,Hombres,12830,8719,726,3385
+CANAR,La Troncal,Urbana,Mujeres,14966,5773,791,8402
+CANAR,La Troncal,Rural,Hombres,7477,5277,406,1794
+CANAR,La Troncal,Rural,Mujeres,8186,2481,771,4934
+CANAR,El Tambo,Urbana,Hombres,1644,1016,90,538
+CANAR,El Tambo,Urbana,Mujeres,2077,888,136,1053
+CANAR,El Tambo,Rural,Hombres,1289,625,162,502
+CANAR,El Tambo,Rural,Mujeres,1685,462,91,1132
+CANAR,Déleg,Urbana,Hombres,197,128,12,57
+CANAR,Déleg,Urbana,Mujeres,307,138,14,155
+CANAR,Déleg,Rural,Hombres,1744,963,145,636
+CANAR,Déleg,Rural,Mujeres,2298,724,171,1403
+CANAR,Suscal,Urbana,Hombres,343,206,21,116
+CANAR,Suscal,Urbana,Mujeres,427,184,32,211
+CANAR,Suscal,Rural,Hombres,1076,451,141,484
+CANAR,Suscal,Rural,Mujeres,1568,295,121,1152
+CARCHI,Tulcán,Urbana,Hombres,20962,13499,1719,5744
+CARCHI,Tulcán,Urbana,Mujeres,23409,11247,1963,10199
+CARCHI,Tulcán,Rural,Hombres,12718,8673,871,3174
+CARCHI,Tulcán,Rural,Mujeres,13335,4723,761,7851
+CARCHI,Bolívar,Urbana,Hombres,1310,935,53,322
+CARCHI,Bolívar,Urbana,Mujeres,1342,622,90,630
+CARCHI,Bolívar,Rural,Hombres,4661,3379,212,1070
+CARCHI,Bolívar,Rural,Mujeres,4812,2032,228,2552
+CARCHI,Espejo,Urbana,Hombres,1899,1292,107,500
+CARCHI,Espejo,Urbana,Mujeres,2072,1017,124,931
+CARCHI,Espejo,Rural,Hombres,3528,2524,124,880
+CARCHI,Espejo,Rural,Mujeres,3706,1300,118,2288
+CARCHI,Mira,Urbana,Hombres,1405,897,53,455
+CARCHI,Mira,Urbana,Mujeres,1601,692,98,811
+CARCHI,Mira,Rural,Hombres,3592,2509,196,887
+CARCHI,Mira,Rural,Mujeres,3532,1152,163,2217
+CARCHI,Montúfar,Urbana,Hombres,5236,3530,427,1279
+CARCHI,Montúfar,Urbana,Mujeres,5863,2865,600,2398
+CARCHI,Montúfar,Rural,Hombres,5665,3971,294,1400
+CARCHI,Montúfar,Rural,Mujeres,6056,2110,353,3593
+CARCHI,San Pedro de Huaca,Urbana,Hombres,1695,1215,74,406
+CARCHI,San Pedro de Huaca,Urbana,Mujeres,1722,685,85,952
+CARCHI,San Pedro de Huaca,Rural,Hombres,1287,953,48,286
+CARCHI,San Pedro de Huaca,Rural,Mujeres,1382,455,69,858
+COTOPAXI,Latacunga,Urbana,Hombres,27891,18274,1565,8052
+COTOPAXI,Latacunga,Urbana,Mujeres,31574,16741,2096,12737
+COTOPAXI,Latacunga,Rural,Hombres,50234,30783,4677,14774
+COTOPAXI,Latacunga,Rural,Mujeres,53075,22808,3184,27083
+COTOPAXI,La Maná,Urbana,Hombres,10649,7517,767,2365
+COTOPAXI,La Maná,Urbana,Mujeres,11779,4988,997,5794
+COTOPAXI,La Maná,Rural,Hombres,7794,5328,568,1898
+COTOPAXI,La Maná,Rural,Mujeres,8058,2515,546,4997
+COTOPAXI,Pangua,Urbana,Hombres,649,435,26,188
+COTOPAXI,Pangua,Urbana,Mujeres,788,422,32,334
+COTOPAXI,Pangua,Rural,Hombres,7497,5368,363,1766
+COTOPAXI,Pangua,Rural,Mujeres,7463,2597,234,4632
+COTOPAXI,Pujilí,Urbana,Hombres,5615,3483,510,1622
+COTOPAXI,Pujilí,Urbana,Mujeres,6434,3193,758,2483
+COTOPAXI,Pujilí,Rural,Hombres,17035,8252,2159,6624
+COTOPAXI,Pujilí,Rural,Mujeres,20334,5410,2031,12893
+COTOPAXI,Salcedo,Urbana,Hombres,6007,3962,363,1682
+COTOPAXI,Salcedo,Urbana,Mujeres,6873,3645,477,2751
+COTOPAXI,Salcedo,Rural,Hombres,18005,11080,1558,5367
+COTOPAXI,Salcedo,Rural,Mujeres,20565,8631,1386,10548
+COTOPAXI,Saquisilí,Urbana,Hombres,3365,2180,215,970
+COTOPAXI,Saquisilí,Urbana,Mujeres,3875,2025,204,1646
+COTOPAXI,Saquisilí,Rural,Hombres,4796,2661,363,1772
+COTOPAXI,Saquisilí,Rural,Mujeres,5822,2000,285,3537
+COTOPAXI,Sigchos,Urbana,Hombres,920,558,62,300
+COTOPAXI,Sigchos,Urbana,Mujeres,1086,496,87,503
+COTOPAXI,Sigchos,Rural,Hombres,5436,2953,425,2058
+COTOPAXI,Sigchos,Rural,Mujeres,5886,1851,258,3777
+CHIMBORAZO,Riobamba,Urbana,Hombres,64240,39899,3910,20431
+CHIMBORAZO,Riobamba,Urbana,Mujeres,74440,39518,4925,29997
+CHIMBORAZO,Riobamba,Rural,Hombres,29251,17736,2282,9233
+CHIMBORAZO,Riobamba,Rural,Mujeres,34015,14469,2479,17067
+CHIMBORAZO,Alausí,Urbana,Hombres,2026,1257,144,625
+CHIMBORAZO,Alausí,Urbana,Mujeres,2474,1303,198,973
+CHIMBORAZO,Alausí,Rural,Hombres,10208,4129,1800,4279
+CHIMBORAZO,Alausí,Rural,Mujeres,11963,2679,1195,8089
+CHIMBORAZO,Colta,Urbana,Hombres,946,537,104,305
+CHIMBORAZO,Colta,Urbana,Mujeres,1152,496,99,557
+CHIMBORAZO,Colta,Rural,Hombres,10180,4284,1395,4501
+CHIMBORAZO,Colta,Rural,Mujeres,11781,2738,1129,7914
+CHIMBORAZO,Chambo,Urbana,Hombres,1969,1406,73,490
+CHIMBORAZO,Chambo,Urbana,Mujeres,2186,1201,127,858
+CHIMBORAZO,Chambo,Rural,Hombres,2680,1863,131,686
+CHIMBORAZO,Chambo,Rural,Mujeres,3248,1588,138,1522
+CHIMBORAZO,Chunchi,Urbana,Hombres,1261,807,66,388
+CHIMBORAZO,Chunchi,Urbana,Mujeres,1554,847,47,660
+CHIMBORAZO,Chunchi,Rural,Hombres,2179,1159,191,829
+CHIMBORAZO,Chunchi,Rural,Mujeres,2711,866,139,1706
+CHIMBORAZO,Guamote,Urbana,Hombres,999,626,86,287
+CHIMBORAZO,Guamote,Urbana,Mujeres,1204,590,87,527
+CHIMBORAZO,Guamote,Rural,Hombres,10779,6521,883,3375
+CHIMBORAZO,Guamote,Rural,Mujeres,12336,4830,937,6569
+CHIMBORAZO,Guano,Urbana,Hombres,3272,2075,186,1011
+CHIMBORAZO,Guano,Urbana,Mujeres,3846,2060,228,1558
+CHIMBORAZO,Guano,Rural,Hombres,13562,8334,798,4430
+CHIMBORAZO,Guano,Rural,Mujeres,15885,6417,906,8562
+CHIMBORAZO,Pallatanga,Urbana,Hombres,1420,951,67,402
+CHIMBORAZO,Pallatanga,Urbana,Mujeres,1690,869,84,737
+CHIMBORAZO,Pallatanga,Rural,Hombres,2595,1683,134,778
+CHIMBORAZO,Pallatanga,Rural,Mujeres,2825,1098,86,1641
+CHIMBORAZO,Penipe,Urbana,Hombres,510,271,19,220
+CHIMBORAZO,Penipe,Urbana,Mujeres,574,217,20,337
+CHIMBORAZO,Penipe,Rural,Hombres,2015,1282,105,628
+CHIMBORAZO,Penipe,Rural,Mujeres,2289,932,109,1248
+CHIMBORAZO,Cumandá,Urbana,Hombres,3715,2533,313,869
+CHIMBORAZO,Cumandá,Urbana,Mujeres,4408,1908,468,2032
+CHIMBORAZO,Cumandá,Rural,Hombres,1826,1168,191,467
+CHIMBORAZO,Cumandá,Rural,Mujeres,1931,772,154,1005
+EL ORO,Machala,Urbana,Hombres,104756,68994,9483,26279
+EL ORO,Machala,Urbana,Mujeres,112374,46793,9370,56211
+EL ORO,Machala,Rural,Hombres,6698,5084,346,1268
+EL ORO,Machala,Rural,Mujeres,6532,2331,483,3718
+EL ORO,Arenillas,Urbana,Hombres,7705,4886,669,2150
+EL ORO,Arenillas,Urbana,Mujeres,8297,3066,583,4648
+EL ORO,Arenillas,Rural,Hombres,4211,2832,423,956
+EL ORO,Arenillas,Rural,Mujeres,3995,1114,282,2599
+EL ORO,Atahualpa,Urbana,Hombres,681,472,30,179
+EL ORO,Atahualpa,Urbana,Mujeres,691,236,26,429
+EL ORO,Atahualpa,Rural,Hombres,1774,1168,189,417
+EL ORO,Atahualpa,Rural,Mujeres,1657,586,71,1000
+EL ORO,Balsas,Urbana,Hombres,1685,1177,107,401
+EL ORO,Balsas,Urbana,Mujeres,1670,734,119,817
+EL ORO,Balsas,Rural,Hombres,1319,895,140,284
+EL ORO,Balsas,Rural,Mujeres,1209,292,71,846
+EL ORO,Chilla,Urbana,Hombres,314,155,39,120
+EL ORO,Chilla,Urbana,Mujeres,376,125,9,242
+EL ORO,Chilla,Rural,Hombres,523,278,90,155
+EL ORO,Chilla,Rural,Mujeres,493,111,27,355
+EL ORO,El Guabo,Urbana,Hombres,9437,6904,487,2046
+EL ORO,El Guabo,Urbana,Mujeres,9979,3888,658,5433
+EL ORO,El Guabo,Rural,Hombres,11823,9129,517,2177
+EL ORO,El Guabo,Rural,Mujeres,11217,3359,686,7172
+EL ORO,Huaquillas,Urbana,Hombres,19448,13189,1672,4587
+EL ORO,Huaquillas,Urbana,Mujeres,21441,8391,1497,11553
+EL ORO,Huaquillas,Rural,Hombres,166,149,3,14
+EL ORO,Huaquillas,Rural,Mujeres,69,21,5,43
+EL ORO,Marcabelí,Urbana,Hombres,1905,1339,101,465
+EL ORO,Marcabelí,Urbana,Mujeres,1848,750,123,975
+EL ORO,Marcabelí,Rural,Hombres,766,504,74,188
+EL ORO,Marcabelí,Rural,Mujeres,701,183,32,486
+EL ORO,Pasaje,Urbana,Hombres,21773,14318,1719,5736
+EL ORO,Pasaje,Urbana,Mujeres,23862,8987,1682,13193
+EL ORO,Pasaje,Rural,Hombres,8682,5857,640,2185
+EL ORO,Pasaje,Rural,Mujeres,8670,2709,469,5492
+EL ORO,Piñas,Urbana,Hombres,6816,4974,338,1504
+EL ORO,Piñas,Urbana,Mujeres,7398,3468,372,3558
+EL ORO,Piñas,Rural,Hombres,4528,3095,362,1071
+EL ORO,Piñas,Rural,Mujeres,4097,1298,172,2627
+EL ORO,Portovelo,Urbana,Hombres,3608,2652,133,823
+EL ORO,Portovelo,Urbana,Mujeres,3689,1317,263,2109
+EL ORO,Portovelo,Rural,Hombres,1476,1045,103,328
+EL ORO,Portovelo,Rural,Mujeres,1423,409,179,835
+EL ORO,Santa Rosa,Urbana,Hombres,20013,12954,2130,4929
+EL ORO,Santa Rosa,Urbana,Mujeres,22139,8971,2839,10329
+EL ORO,Santa Rosa,Rural,Hombres,8938,6299,570,2069
+EL ORO,Santa Rosa,Rural,Mujeres,8403,2639,587,5177
+EL ORO,Zaruma,Urbana,Hombres,3810,2776,125,909
+EL ORO,Zaruma,Urbana,Mujeres,4013,1811,220,1982
+EL ORO,Zaruma,Rural,Hombres,5487,3402,311,1774
+EL ORO,Zaruma,Rural,Mujeres,5611,1635,187,3789
+EL ORO,Las Lajas,Urbana,Hombres,583,232,37,314
+EL ORO,Las Lajas,Urbana,Mujeres,648,131,36,481
+EL ORO,Las Lajas,Rural,Hombres,1653,786,447,420
+EL ORO,Las Lajas,Rural,Mujeres,1583,384,142,1057
+ESMERALDAS,Esmeraldas,Urbana,Hombres,49352,24486,7993,16873
+ESMERALDAS,Esmeraldas,Urbana,Mujeres,61643,18814,8890,33939
+ESMERALDAS,Esmeraldas,Rural,Hombres,18535,8983,2945,6607
+ESMERALDAS,Esmeraldas,Rural,Mujeres,19360,4529,2073,12758
+ESMERALDAS,Eloy Alfaro,Urbana,Hombres,1473,765,165,543
+ESMERALDAS,Eloy Alfaro,Urbana,Mujeres,1892,448,192,1252
+ESMERALDAS,Eloy Alfaro,Rural,Hombres,13139,7812,1410,3917
+ESMERALDAS,Eloy Alfaro,Rural,Mujeres,13734,2770,1143,9821
+ESMERALDAS,Muisne,Urbana,Hombres,1958,1034,406,518
+ESMERALDAS,Muisne,Urbana,Mujeres,1961,534,328,1099
+ESMERALDAS,Muisne,Rural,Hombres,10052,5163,1839,3050
+ESMERALDAS,Muisne,Rural,Mujeres,9907,1728,1012,7167
+ESMERALDAS,Quinindé,Urbana,Hombres,10176,5757,1372,3047
+ESMERALDAS,Quinindé,Urbana,Mujeres,11722,3789,1672,6261
+ESMERALDAS,Quinindé,Rural,Hombres,33208,21006,4002,8200
+ESMERALDAS,Quinindé,Rural,Mujeres,32861,6940,2383,23538
+ESMERALDAS,San Lorenzo,Urbana,Hombres,8279,4743,902,2634
+ESMERALDAS,San Lorenzo,Urbana,Mujeres,10336,3517,1277,5542
+ESMERALDAS,San Lorenzo,Rural,Hombres,5970,3383,671,1916
+ESMERALDAS,San Lorenzo,Rural,Mujeres,6571,1447,510,4614
+ESMERALDAS,Atacames,Urbana,Hombres,5787,3214,848,1725
+ESMERALDAS,Atacames,Urbana,Mujeres,6649,1988,796,3865
+ESMERALDAS,Atacames,Rural,Hombres,10198,5722,1401,3075
+ESMERALDAS,Atacames,Rural,Mujeres,11270,3197,1416,6657
+ESMERALDAS,Rioverde,Urbana,Hombres,1251,616,271,364
+ESMERALDAS,Rioverde,Urbana,Mujeres,1451,336,175,940
+ESMERALDAS,Rioverde,Rural,Hombres,9366,5545,1353,2468
+ESMERALDAS,Rioverde,Rural,Mujeres,9723,1852,940,6931
+GUAYAS,Guayaquil,Urbana,Hombres,960875,626069,97788,237018
+GUAYAS,Guayaquil,Urbana,Mujeres,1036072,420291,89692,526089
+GUAYAS,Guayaquil,Rural,Hombres,33529,22950,2803,7776
+GUAYAS,Guayaquil,Rural,Mujeres,32988,8755,2178,22055
+GUAYAS,Alfredo Baquerizo Moreno (Juján),Urbana,Hombres,2086,1123,235,728
+GUAYAS,Alfredo Baquerizo Moreno (Juján),Urbana,Mujeres,2405,586,241,1578
+GUAYAS,Alfredo Baquerizo Moreno (Juján),Rural,Hombres,6891,4374,815,1702
+GUAYAS,Alfredo Baquerizo Moreno (Juján),Rural,Mujeres,7036,1182,516,5338
+GUAYAS,Balao,Urbana,Hombres,4414,3242,158,1014
+GUAYAS,Balao,Urbana,Mujeres,4410,1216,196,2998
+GUAYAS,Balao,Rural,Hombres,4470,3453,199,818
+GUAYAS,Balao,Rural,Mujeres,4402,1330,210,2862
+GUAYAS,Balzar,Urbana,Hombres,10937,5926,1927,3084
+GUAYAS,Balzar,Urbana,Mujeres,12064,2961,1688,7415
+GUAYAS,Balzar,Rural,Hombres,9101,5592,1082,2427
+GUAYAS,Balzar,Rural,Mujeres,8665,1285,410,6970
+GUAYAS,Colimes,Urbana,Hombres,2622,1475,439,708
+GUAYAS,Colimes,Urbana,Mujeres,2759,729,286,1744
+GUAYAS,Colimes,Rural,Hombres,7030,3550,1609,1871
+GUAYAS,Colimes,Rural,Mujeres,6282,549,336,5397
+GUAYAS,Daule,Urbana,Hombres,56290,38552,4176,13562
+GUAYAS,Daule,Urbana,Mujeres,65752,33663,4659,27430
+GUAYAS,Daule,Rural,Hombres,22560,12832,3461,6267
+GUAYAS,Daule,Rural,Mujeres,22804,3214,1517,18073
+GUAYAS,Durán,Urbana,Hombres,103432,68142,9853,25437
+GUAYAS,Durán,Urbana,Mujeres,112961,45398,10993,56570
+GUAYAS,Durán,Rural,Hombres,3119,1947,459,713
+GUAYAS,Durán,Rural,Mujeres,3031,954,273,1804
+GUAYAS,El Empalme,Urbana,Hombres,13992,8838,1606,3548
+GUAYAS,El Empalme,Urbana,Mujeres,15785,4864,1497,9424
+GUAYAS,El Empalme,Rural,Hombres,13842,9193,1078,3571
+GUAYAS,El Empalme,Rural,Mujeres,13506,2675,480,10351
+GUAYAS,El Triunfo,Urbana,Hombres,13589,9051,1121,3417
+GUAYAS,El Triunfo,Urbana,Mujeres,14874,4730,1305,8839
+GUAYAS,El Triunfo,Rural,Hombres,6776,4865,288,1623
+GUAYAS,El Triunfo,Rural,Mujeres,6831,1966,298,4567
+GUAYAS,Milagro,Urbana,Hombres,55878,35220,5184,15474
+GUAYAS,Milagro,Urbana,Mujeres,61677,22487,5392,33798
+GUAYAS,Milagro,Rural,Hombres,12739,9080,830,2829
+GUAYAS,Milagro,Rural,Mujeres,13143,4289,790,8064
+GUAYAS,Naranjal,Urbana,Hombres,13120,9506,800,2814
+GUAYAS,Naranjal,Urbana,Mujeres,14249,5426,803,8020
+GUAYAS,Naranjal,Rural,Hombres,15684,11929,718,3037
+GUAYAS,Naranjal,Rural,Mujeres,15102,4673,499,9930
+GUAYAS,Naranjito,Urbana,Hombres,12099,7871,1043,3185
+GUAYAS,Naranjito,Urbana,Mujeres,12981,4189,1256,7536
+GUAYAS,Naranjito,Rural,Hombres,3402,2439,142,821
+GUAYAS,Naranjito,Rural,Mujeres,3497,1074,152,2271
+GUAYAS,Palestina,Urbana,Hombres,3743,2226,487,1030
+GUAYAS,Palestina,Urbana,Mujeres,3900,839,243,2818
+GUAYAS,Palestina,Rural,Hombres,2774,1836,203,735
+GUAYAS,Palestina,Rural,Mujeres,2648,199,113,2336
+GUAYAS,Pedro Carbo,Urbana,Hombres,8684,5194,1169,2321
+GUAYAS,Pedro Carbo,Urbana,Mujeres,9009,2671,971,5367
+GUAYAS,Pedro Carbo,Rural,Hombres,10003,5540,1764,2699
+GUAYAS,Pedro Carbo,Rural,Mujeres,9265,1506,619,7140
+GUAYAS,Samborondón,Urbana,Hombres,27267,18616,1697,6954
+GUAYAS,Samborondón,Urbana,Mujeres,30561,15939,1099,13523
+GUAYAS,Samborondón,Rural,Hombres,9607,5745,1203,2659
+GUAYAS,Samborondón,Rural,Mujeres,9631,1629,705,7297
+GUAYAS,Santa Lucía,Urbana,Hombres,3914,2368,548,998
+GUAYAS,Santa Lucía,Urbana,Mujeres,4167,1208,384,2575
+GUAYAS,Santa Lucía,Rural,Hombres,12471,7363,2035,3073
+GUAYAS,Santa Lucía,Rural,Mujeres,11764,1431,843,9490
+GUAYAS,Salitre,Urbana,Hombres,4563,2790,467,1306
+GUAYAS,Salitre,Urbana,Mujeres,5175,1549,335,3291
+GUAYAS,Salitre,Rural,Hombres,17559,10999,2090,4470
+GUAYAS,Salitre,Rural,Mujeres,17121,2742,937,13442
+GUAYAS,San Jacinto de Yaguachi,Urbana,Hombres,8126,4875,975,2276
+GUAYAS,San Jacinto de Yaguachi,Urbana,Mujeres,8797,2618,690,5489
+GUAYAS,San Jacinto de Yaguachi,Rural,Hombres,17684,11986,1341,4357
+GUAYAS,San Jacinto de Yaguachi,Rural,Mujeres,17960,5057,878,12025
+GUAYAS,Playas,Urbana,Hombres,16375,10625,1725,4025
+GUAYAS,Playas,Urbana,Mujeres,17422,6069,1701,9652
+GUAYAS,Playas,Rural,Hombres,3597,2441,252,904
+GUAYAS,Playas,Rural,Mujeres,3721,730,164,2827
+GUAYAS,Simón Bolívar,Urbana,Hombres,3027,2070,300,657
+GUAYAS,Simón Bolívar,Urbana,Mujeres,3231,975,404,1852
+GUAYAS,Simón Bolívar,Rural,Hombres,7550,5850,327,1373
+GUAYAS,Simón Bolívar,Rural,Mujeres,7378,2151,394,4833
+GUAYAS,Coronel Marcelino Maridueña,Urbana,Hombres,3014,1890,156,968
+GUAYAS,Coronel Marcelino Maridueña,Urbana,Mujeres,3073,984,154,1935
+GUAYAS,Coronel Marcelino Maridueña,Rural,Hombres,2020,1485,119,416
+GUAYAS,Coronel Marcelino Maridueña,Rural,Mujeres,1896,683,168,1045
+GUAYAS,Lomas de Sargentillo,Urbana,Hombres,5884,3605,740,1539
+GUAYAS,Lomas de Sargentillo,Urbana,Mujeres,6066,1317,430,4319
+GUAYAS,Lomas de Sargentillo,Rural,Hombres,2071,1046,372,653
+GUAYAS,Lomas de Sargentillo,Rural,Mujeres,1958,161,101,1696
+GUAYAS,Nobol,Urbana,Hombres,3543,2182,451,910
+GUAYAS,Nobol,Urbana,Mujeres,3817,1091,436,2290
+GUAYAS,Nobol,Rural,Hombres,4771,3030,569,1172
+GUAYAS,Nobol,Rural,Mujeres,4956,1330,472,3154
+GUAYAS,General  Antonio Elizalde,Urbana,Hombres,2362,1590,165,607
+GUAYAS,General  Antonio Elizalde,Urbana,Mujeres,2630,1115,237,1278
+GUAYAS,General  Antonio Elizalde,Rural,Hombres,1823,1113,269,441
+GUAYAS,General  Antonio Elizalde,Rural,Mujeres,1847,620,146,1081
+GUAYAS,Isidro Ayora,Urbana,Hombres,2804,1713,317,774
+GUAYAS,Isidro Ayora,Urbana,Mujeres,2932,723,210,1999
+GUAYAS,Isidro Ayora,Rural,Hombres,2204,1392,191,621
+GUAYAS,Isidro Ayora,Rural,Mujeres,2028,277,97,1654
+IMBABURA,Ibarra,Urbana,Hombres,57675,37365,3807,16503
+IMBABURA,Ibarra,Urbana,Mujeres,66028,34047,4995,26986
+IMBABURA,Ibarra,Rural,Hombres,21560,13530,2272,5758
+IMBABURA,Ibarra,Rural,Mujeres,23608,8902,2098,12608
+IMBABURA,Antonio Ante,Urbana,Hombres,9197,5887,534,2776
+IMBABURA,Antonio Ante,Urbana,Mujeres,10396,5388,529,4479
+IMBABURA,Antonio Ante,Rural,Hombres,10333,6599,925,2809
+IMBABURA,Antonio Ante,Rural,Mujeres,11230,5020,811,5399
+IMBABURA,Cotacachi,Urbana,Hombres,3881,2502,177,1202
+IMBABURA,Cotacachi,Urbana,Mujeres,4377,2208,184,1985
+IMBABURA,Cotacachi,Rural,Hombres,15208,9457,1573,4178
+IMBABURA,Cotacachi,Rural,Mujeres,15666,4907,1127,9632
+IMBABURA,Otavalo,Urbana,Hombres,15031,9884,987,4160
+IMBABURA,Otavalo,Urbana,Mujeres,17177,8900,1041,7236
+IMBABURA,Otavalo,Rural,Hombres,25452,15207,2680,7565
+IMBABURA,Otavalo,Rural,Mujeres,28133,10307,1614,16212
+IMBABURA,Pimampiro,Urbana,Hombres,2135,1567,107,461
+IMBABURA,Pimampiro,Urbana,Mujeres,2388,1181,169,1038
+IMBABURA,Pimampiro,Rural,Hombres,2881,1972,239,670
+IMBABURA,Pimampiro,Rural,Mujeres,2927,1022,157,1748
+IMBABURA,San Miguel de Urcuquí,Urbana,Hombres,1660,1087,94,479
+IMBABURA,San Miguel de Urcuquí,Urbana,Mujeres,1754,815,137,802
+IMBABURA,San Miguel de Urcuquí,Rural,Hombres,5039,3571,208,1260
+IMBABURA,San Miguel de Urcuquí,Rural,Mujeres,5104,2003,283,2818
+LOJA,Loja,Urbana,Hombres,72186,45909,5173,21104
+LOJA,Loja,Urbana,Mujeres,83128,41203,6751,35174
+LOJA,Loja,Rural,Hombres,16731,9384,1746,5601
+LOJA,Loja,Rural,Mujeres,18190,6603,1153,10434
+LOJA,Calvas,Urbana,Hombres,4641,2672,374,1595
+LOJA,Calvas,Urbana,Mujeres,5287,2278,293,2716
+LOJA,Calvas,Rural,Hombres,4972,1980,817,2175
+LOJA,Calvas,Rural,Mujeres,4968,1189,171,3608
+LOJA,Catamayo,Urbana,Hombres,9407,6005,718,2684
+LOJA,Catamayo,Urbana,Mujeres,10539,4343,951,5245
+LOJA,Catamayo,Rural,Hombres,3119,1880,272,967
+LOJA,Catamayo,Rural,Mujeres,3228,1092,171,1965
+LOJA,Celica,Urbana,Hombres,1577,931,94,552
+LOJA,Celica,Urbana,Mujeres,1736,698,93,945
+LOJA,Celica,Rural,Hombres,3820,1853,729,1238
+LOJA,Celica,Rural,Mujeres,3595,861,83,2651
+LOJA,Chaguarpamba,Urbana,Hombres,472,295,19,158
+LOJA,Chaguarpamba,Urbana,Mujeres,544,246,12,286
+LOJA,Chaguarpamba,Rural,Hombres,2218,1157,226,835
+LOJA,Chaguarpamba,Rural,Mujeres,2138,578,59,1501
+LOJA,Espíndola,Urbana,Hombres,780,418,101,261
+LOJA,Espíndola,Urbana,Mujeres,856,415,71,370
+LOJA,Espíndola,Rural,Hombres,4652,1867,946,1839
+LOJA,Espíndola,Rural,Mujeres,4553,1020,223,3310
+LOJA,Gonzanamá,Urbana,Hombres,726,451,29,246
+LOJA,Gonzanamá,Urbana,Mujeres,794,397,24,373
+LOJA,Gonzanamá,Rural,Hombres,4012,2098,428,1486
+LOJA,Gonzanamá,Rural,Mujeres,4060,1317,169,2574
+LOJA,Macará,Urbana,Hombres,4307,2660,430,1217
+LOJA,Macará,Urbana,Mujeres,4966,1875,365,2726
+LOJA,Macará,Rural,Hombres,2281,1464,66,751
+LOJA,Macará,Rural,Mujeres,2085,457,42,1586
+LOJA,Paltas,Urbana,Hombres,2710,1608,253,849
+LOJA,Paltas,Urbana,Mujeres,3090,1388,258,1444
+LOJA,Paltas,Rural,Hombres,5873,2827,785,2261
+LOJA,Paltas,Rural,Mujeres,5742,1536,204,4002
+LOJA,Puyango,Urbana,Hombres,2063,1414,180,469
+LOJA,Puyango,Urbana,Mujeres,2403,1137,158,1108
+LOJA,Puyango,Rural,Hombres,4057,2325,449,1283
+LOJA,Puyango,Rural,Mujeres,3873,1036,147,2690
+LOJA,Saraguro,Urbana,Hombres,1540,1016,74,450
+LOJA,Saraguro,Urbana,Mujeres,1889,951,70,868
+LOJA,Saraguro,Rural,Hombres,8143,3898,775,3470
+LOJA,Saraguro,Rural,Mujeres,9716,2748,380,6588
+LOJA,Sozoranga,Urbana,Hombres,340,186,11,143
+LOJA,Sozoranga,Urbana,Mujeres,361,140,12,209
+LOJA,Sozoranga,Rural,Hombres,2224,919,430,875
+LOJA,Sozoranga,Rural,Mujeres,2245,426,40,1779
+LOJA,Zapotillo,Urbana,Hombres,1293,877,73,343
+LOJA,Zapotillo,Urbana,Mujeres,1388,635,77,676
+LOJA,Zapotillo,Rural,Hombres,4259,2552,690,1017
+LOJA,Zapotillo,Rural,Mujeres,3853,925,213,2715
+LOJA,Pindal,Urbana,Hombres,929,654,79,196
+LOJA,Pindal,Urbana,Mujeres,972,399,66,507
+LOJA,Pindal,Rural,Hombres,2985,2112,156,717
+LOJA,Pindal,Rural,Mujeres,2737,550,51,2136
+LOJA,Quilanga,Urbana,Hombres,335,191,37,107
+LOJA,Quilanga,Urbana,Mujeres,401,135,34,232
+LOJA,Quilanga,Rural,Hombres,1201,592,202,407
+LOJA,Quilanga,Rural,Mujeres,1230,321,97,812
+LOJA,Olmedo,Urbana,Hombres,277,149,25,103
+LOJA,Olmedo,Urbana,Mujeres,300,129,13,158
+LOJA,Olmedo,Rural,Hombres,1360,801,77,482
+LOJA,Olmedo,Rural,Mujeres,1370,341,34,995
+LOS RIOS,Babahoyo,Urbana,Hombres,34321,21048,3584,9689
+LOS RIOS,Babahoyo,Urbana,Mujeres,39136,14582,3227,21327
+LOS RIOS,Babahoyo,Rural,Hombres,28349,18321,2669,7359
+LOS RIOS,Babahoyo,Rural,Mujeres,29100,7243,1974,19883
+LOS RIOS,Baba,Urbana,Hombres,2235,1488,196,551
+LOS RIOS,Baba,Urbana,Mujeres,2582,768,241,1573
+LOS RIOS,Baba,Rural,Hombres,14015,9020,1508,3487
+LOS RIOS,Baba,Rural,Mujeres,13683,2227,652,10804
+LOS RIOS,Montalvo,Urbana,Hombres,5748,3517,632,1599
+LOS RIOS,Montalvo,Urbana,Mujeres,6377,2183,691,3503
+LOS RIOS,Montalvo,Rural,Hombres,4597,3026,442,1129
+LOS RIOS,Montalvo,Rural,Mujeres,4535,1104,267,3164
+LOS RIOS,Puebloviejo,Urbana,Hombres,3195,2125,227,843
+LOS RIOS,Puebloviejo,Urbana,Mujeres,3559,967,149,2443
+LOS RIOS,Puebloviejo,Rural,Hombres,10600,7299,765,2536
+LOS RIOS,Puebloviejo,Rural,Mujeres,11289,2645,607,8037
+LOS RIOS,Quevedo,Urbana,Hombres,60647,36421,7040,17186
+LOS RIOS,Quevedo,Urbana,Mujeres,67463,21368,6244,39851
+LOS RIOS,Quevedo,Rural,Hombres,9884,6485,963,2436
+LOS RIOS,Quevedo,Rural,Mujeres,10213,2258,713,7242
+LOS RIOS,Urdaneta,Urbana,Hombres,2515,1571,262,682
+LOS RIOS,Urdaneta,Urbana,Mujeres,2759,729,273,1757
+LOS RIOS,Urdaneta,Rural,Hombres,9370,6409,626,2335
+LOS RIOS,Urdaneta,Rural,Mujeres,9386,2226,604,6556
+LOS RIOS,Ventanas,Urbana,Hombres,13972,8658,1609,3705
+LOS RIOS,Ventanas,Urbana,Mujeres,15802,5123,1510,9169
+LOS RIOS,Ventanas,Rural,Hombres,11448,7314,1409,2725
+LOS RIOS,Ventanas,Rural,Mujeres,11506,2344,702,8460
+LOS RIOS,Vinces,Urbana,Hombres,11953,7474,1372,3107
+LOS RIOS,Vinces,Urbana,Mujeres,13659,4197,1292,8170
+LOS RIOS,Vinces,Rural,Hombres,17424,11632,1787,4005
+LOS RIOS,Vinces,Rural,Mujeres,16160,2619,661,12880
+LOS RIOS,Palenque,Urbana,Hombres,2450,1427,338,685
+LOS RIOS,Palenque,Urbana,Mujeres,2698,689,256,1753
+LOS RIOS,Palenque,Rural,Hombres,6583,4599,625,1359
+LOS RIOS,Palenque,Rural,Mujeres,6004,662,218,5124
+LOS RIOS,Buena Fe,Urbana,Hombres,15319,9810,1450,4059
+LOS RIOS,Buena Fe,Urbana,Mujeres,17029,4734,1379,10916
+LOS RIOS,Buena Fe,Rural,Hombres,9683,6401,1097,2185
+LOS RIOS,Buena Fe,Rural,Mujeres,9288,2179,572,6537
+LOS RIOS,Valencia,Urbana,Hombres,7681,5329,498,1854
+LOS RIOS,Valencia,Urbana,Mujeres,8348,2745,706,4897
+LOS RIOS,Valencia,Rural,Hombres,10242,7408,753,2081
+LOS RIOS,Valencia,Rural,Mujeres,9562,1904,463,7195
+LOS RIOS,Mocache,Urbana,Hombres,3236,1922,362,952
+LOS RIOS,Mocache,Urbana,Mujeres,3629,954,264,2411
+LOS RIOS,Mocache,Rural,Hombres,12034,8326,912,2796
+LOS RIOS,Mocache,Rural,Mujeres,11640,1999,560,9081
+LOS RIOS,Quinsaloma,Urbana,Hombres,2152,1367,268,517
+LOS RIOS,Quinsaloma,Urbana,Mujeres,2265,732,142,1391
+LOS RIOS,Quinsaloma,Rural,Hombres,4916,3514,301,1101
+LOS RIOS,Quinsaloma,Rural,Mujeres,4698,1084,160,3454
+MANABI,Portoviejo,Urbana,Hombres,88054,55292,9882,22880
+MANABI,Portoviejo,Urbana,Mujeres,98815,38893,11026,48896
+MANABI,Portoviejo,Rural,Hombres,30882,19204,3972,7706
+MANABI,Portoviejo,Rural,Mujeres,28956,8304,2216,18436
+MANABI,Bolívar,Urbana,Hombres,7074,4174,925,1975
+MANABI,Bolívar,Urbana,Mujeres,8031,2724,895,4412
+MANABI,Bolívar,Rural,Hombres,8228,5005,893,2330
+MANABI,Bolívar,Rural,Mujeres,8124,1630,289,6205
+MANABI,Chone,Urbana,Hombres,18731,11253,1822,5656
+MANABI,Chone,Urbana,Mujeres,22518,9062,2061,11395
+MANABI,Chone,Rural,Hombres,26917,17225,2485,7207
+MANABI,Chone,Rural,Mujeres,27307,6081,1207,20019
+MANABI,El Carmen,Urbana,Hombres,17307,11275,1650,4382
+MANABI,El Carmen,Urbana,Mujeres,19884,6988,1589,11307
+MANABI,El Carmen,Rural,Hombres,24834,17324,2050,5460
+MANABI,El Carmen,Rural,Mujeres,24265,4904,924,18437
+MANABI,Flavio Alfaro,Urbana,Hombres,2714,1815,191,708
+MANABI,Flavio Alfaro,Urbana,Mujeres,3273,1147,264,1862
+MANABI,Flavio Alfaro,Rural,Hombres,6587,4385,617,1585
+MANABI,Flavio Alfaro,Rural,Mujeres,6519,1352,296,4871
+MANABI,Jipijapa,Urbana,Hombres,16379,9377,1843,5159
+MANABI,Jipijapa,Urbana,Mujeres,18001,6066,1586,10349
+MANABI,Jipijapa,Rural,Hombres,13051,7524,1117,4410
+MANABI,Jipijapa,Rural,Mujeres,11694,2093,354,9247
+MANABI,Junín,Urbana,Hombres,2668,1631,258,779
+MANABI,Junín,Urbana,Mujeres,2885,896,280,1709
+MANABI,Junín,Rural,Hombres,5739,3645,487,1607
+MANABI,Junín,Rural,Mujeres,5403,1148,141,4114
+MANABI,Manta,Urbana,Hombres,93265,60414,9523,23328
+MANABI,Manta,Urbana,Mujeres,102617,40560,10529,51528
+MANABI,Manta,Rural,Hombres,4506,3017,439,1050
+MANABI,Manta,Rural,Mujeres,4491,1089,451,2951
+MANABI,Montecristi,Urbana,Hombres,24491,15480,2926,6085
+MANABI,Montecristi,Urbana,Mujeres,27013,9119,3079,14815
+MANABI,Montecristi,Rural,Hombres,10668,7171,883,2614
+MANABI,Montecristi,Rural,Mujeres,10475,3392,486,6597
+MANABI,Paján,Urbana,Hombres,2755,1724,248,783
+MANABI,Paján,Urbana,Mujeres,2940,1011,203,1726
+MANABI,Paján,Rural,Hombres,13066,8236,1069,3761
+MANABI,Paján,Rural,Mujeres,11874,1802,349,9723
+MANABI,Pichincha,Urbana,Hombres,1567,1015,142,410
+MANABI,Pichincha,Urbana,Mujeres,1709,592,100,1017
+MANABI,Pichincha,Rural,Hombres,9582,5517,1437,2628
+MANABI,Pichincha,Rural,Mujeres,9168,1053,398,7717
+MANABI,Rocafuerte,Urbana,Hombres,4333,2906,309,1118
+MANABI,Rocafuerte,Urbana,Mujeres,4618,1862,314,2442
+MANABI,Rocafuerte,Rural,Hombres,11633,8498,904,2231
+MANABI,Rocafuerte,Rural,Mujeres,11629,3414,562,7653
+MANABI,Santa Ana,Urbana,Hombres,4375,2699,438,1238
+MANABI,Santa Ana,Urbana,Mujeres,4751,1664,376,2711
+MANABI,Santa Ana,Rural,Hombres,14898,9764,1637,3497
+MANABI,Santa Ana,Rural,Mujeres,14408,3136,702,10570
+MANABI,Sucre,Urbana,Hombres,8169,4761,1004,2404
+MANABI,Sucre,Urbana,Mujeres,8714,3224,795,4695
+MANABI,Sucre,Rural,Hombres,15020,9872,1690,3458
+MANABI,Sucre,Rural,Mujeres,15152,4016,841,10295
+MANABI,Tosagua,Urbana,Hombres,4010,2395,346,1269
+MANABI,Tosagua,Urbana,Mujeres,4455,1398,315,2742
+MANABI,Tosagua,Rural,Hombres,11760,7061,1417,3282
+MANABI,Tosagua,Rural,Mujeres,11625,2312,464,8849
+MANABI,24 de Mayo,Urbana,Hombres,2456,1480,235,741
+MANABI,24 de Mayo,Urbana,Mujeres,2634,754,170,1710
+MANABI,24 de Mayo,Rural,Hombres,9646,4928,1653,3065
+MANABI,24 de Mayo,Rural,Mujeres,9040,1389,317,7334
+MANABI,Pedernales,Urbana,Hombres,8496,5297,1028,2171
+MANABI,Pedernales,Urbana,Mujeres,9686,3007,825,5854
+MANABI,Pedernales,Rural,Hombres,14622,7597,3068,3957
+MANABI,Pedernales,Rural,Mujeres,14031,2089,842,11100
+MANABI,Olmedo,Urbana,Hombres,963,640,45,278
+MANABI,Olmedo,Urbana,Mujeres,1071,361,33,677
+MANABI,Olmedo,Rural,Hombres,2869,1571,407,891
+MANABI,Olmedo,Rural,Mujeres,2665,506,59,2100
+MANABI,Puerto López,Urbana,Hombres,4452,3001,397,1054
+MANABI,Puerto López,Urbana,Mujeres,4415,1210,353,2852
+MANABI,Puerto López,Rural,Hombres,4708,2896,561,1251
+MANABI,Puerto López,Rural,Mujeres,4600,845,386,3369
+MANABI,Jama,Urbana,Hombres,1822,1101,254,467
+MANABI,Jama,Urbana,Mujeres,1955,604,232,1119
+MANABI,Jama,Rural,Hombres,3999,2482,500,1017
+MANABI,Jama,Rural,Mujeres,3941,733,200,3008
+MANABI,Jaramijó,Urbana,Hombres,9608,6105,1144,2359
+MANABI,Jaramijó,Urbana,Mujeres,9981,2548,767,6666
+MANABI,Jaramijó,Rural,Hombres,453,335,35,83
+MANABI,Jaramijó,Rural,Mujeres,434,120,42,272
+MANABI,San Vicente,Urbana,Hombres,3645,2139,484,1022
+MANABI,San Vicente,Urbana,Mujeres,4157,1385,511,2261
+MANABI,San Vicente,Rural,Hombres,5279,3016,716,1547
+MANABI,San Vicente,Rural,Mujeres,5239,1184,311,3744
+MORONA SANTIAGO,Morona,Urbana,Hombres,7573,4913,607,2053
+MORONA SANTIAGO,Morona,Urbana,Mujeres,8383,4366,601,3416
+MORONA SANTIAGO,Morona,Rural,Hombres,9710,4012,1781,3917
+MORONA SANTIAGO,Morona,Rural,Mujeres,10514,2574,952,6988
+MORONA SANTIAGO,Gualaquiza,Urbana,Hombres,2960,2043,238,679
+MORONA SANTIAGO,Gualaquiza,Urbana,Mujeres,3463,1805,172,1486
+MORONA SANTIAGO,Gualaquiza,Rural,Hombres,3943,1857,577,1509
+MORONA SANTIAGO,Gualaquiza,Rural,Mujeres,4106,1017,205,2884
+MORONA SANTIAGO,Limón Indanza,Urbana,Hombres,1271,859,94,318
+MORONA SANTIAGO,Limón Indanza,Urbana,Mujeres,1527,846,116,565
+MORONA SANTIAGO,Limón Indanza,Rural,Hombres,1716,853,174,689
+MORONA SANTIAGO,Limón Indanza,Rural,Mujeres,1848,477,69,1302
+MORONA SANTIAGO,Palora,Urbana,Hombres,1961,1511,117,333
+MORONA SANTIAGO,Palora,Urbana,Mujeres,2133,1178,165,790
+MORONA SANTIAGO,Palora,Rural,Hombres,1977,1236,209,532
+MORONA SANTIAGO,Palora,Rural,Mujeres,1905,550,92,1263
+MORONA SANTIAGO,Santiago,Urbana,Hombres,823,525,54,244
+MORONA SANTIAGO,Santiago,Urbana,Mujeres,936,488,63,385
+MORONA SANTIAGO,Santiago,Rural,Hombres,2414,1058,430,926
+MORONA SANTIAGO,Santiago,Rural,Mujeres,2453,631,176,1646
+MORONA SANTIAGO,Sucúa,Urbana,Hombres,3477,2240,285,952
+MORONA SANTIAGO,Sucúa,Urbana,Mujeres,4190,2087,304,1799
+MORONA SANTIAGO,Sucúa,Rural,Hombres,3868,1630,728,1510
+MORONA SANTIAGO,Sucúa,Rural,Mujeres,4160,841,272,3047
+MORONA SANTIAGO,Huamboya,Urbana,Hombres,401,259,58,84
+MORONA SANTIAGO,Huamboya,Urbana,Mujeres,486,235,55,196
+MORONA SANTIAGO,Huamboya,Rural,Hombres,2655,708,482,1465
+MORONA SANTIAGO,Huamboya,Rural,Mujeres,2753,355,166,2232
+MORONA SANTIAGO,San Juan Bosco,Urbana,Hombres,514,345,46,123
+MORONA SANTIAGO,San Juan Bosco,Urbana,Mujeres,617,318,32,267
+MORONA SANTIAGO,San Juan Bosco,Rural,Hombres,852,328,119,405
+MORONA SANTIAGO,San Juan Bosco,Rural,Mujeres,848,195,60,593
+MORONA SANTIAGO,Taisha,Urbana,Hombres,544,313,55,176
+MORONA SANTIAGO,Taisha,Urbana,Mujeres,648,224,55,369
+MORONA SANTIAGO,Taisha,Rural,Hombres,6225,931,954,4340
+MORONA SANTIAGO,Taisha,Rural,Mujeres,6302,362,354,5586
+MORONA SANTIAGO,Logroño,Urbana,Hombres,454,235,25,194
+MORONA SANTIAGO,Logroño,Urbana,Mujeres,528,181,16,331
+MORONA SANTIAGO,Logroño,Rural,Hombres,1731,424,620,687
+MORONA SANTIAGO,Logroño,Rural,Mujeres,1734,160,120,1454
+MORONA SANTIAGO,Pablo Sexto,Urbana,Hombres,353,201,26,126
+MORONA SANTIAGO,Pablo Sexto,Urbana,Mujeres,382,163,9,210
+MORONA SANTIAGO,Pablo Sexto,Rural,Hombres,351,93,110,148
+MORONA SANTIAGO,Pablo Sexto,Rural,Mujeres,368,36,13,319
+MORONA SANTIAGO,Tiwintza,Urbana,Hombres,366,233,42,91
+MORONA SANTIAGO,Tiwintza,Urbana,Mujeres,381,167,20,194
+MORONA SANTIAGO,Tiwintza,Rural,Hombres,2238,609,373,1256
+MORONA SANTIAGO,Tiwintza,Rural,Mujeres,2177,377,79,1721
+NAPO,Tena,Urbana,Hombres,10122,6556,921,2645
+NAPO,Tena,Urbana,Mujeres,11474,6042,1002,4430
+NAPO,Tena,Rural,Hombres,16529,7183,3148,6198
+NAPO,Tena,Rural,Mujeres,15929,4638,1430,9861
+NAPO,Archidona,Urbana,Hombres,2378,1331,341,706
+NAPO,Archidona,Urbana,Mujeres,2813,1360,265,1188
+NAPO,Archidona,Rural,Hombres,7754,2809,1484,3461
+NAPO,Archidona,Rural,Mujeres,7323,1738,495,5090
+NAPO,El Chaco,Urbana,Hombres,1571,1100,167,304
+NAPO,El Chaco,Urbana,Mujeres,1677,786,196,695
+NAPO,El Chaco,Rural,Hombres,1834,1169,222,443
+NAPO,El Chaco,Rural,Mujeres,1809,827,195,787
+NAPO,Quijos,Urbana,Hombres,705,476,28,201
+NAPO,Quijos,Urbana,Mujeres,788,415,33,340
+NAPO,Quijos,Rural,Hombres,1667,1125,176,366
+NAPO,Quijos,Rural,Mujeres,1703,859,182,662
+NAPO,Carlos Julio Arosemena Tola,Urbana,Hombres,446,292,33,121
+NAPO,Carlos Julio Arosemena Tola,Urbana,Mujeres,465,246,24,195
+NAPO,Carlos Julio Arosemena Tola,Rural,Hombres,1161,652,139,370
+NAPO,Carlos Julio Arosemena Tola,Rural,Mujeres,1106,416,58,632
+PASTAZA,Pastaza,Urbana,Hombres,11722,7835,850,3037
+PASTAZA,Pastaza,Urbana,Mujeres,13004,6981,1060,4963
+PASTAZA,Pastaza,Rural,Hombres,15133,7951,1549,5633
+PASTAZA,Pastaza,Rural,Mujeres,16009,5776,1046,9187
+PASTAZA,Mera,Urbana,Hombres,323,198,29,96
+PASTAZA,Mera,Urbana,Mujeres,348,165,48,135
+PASTAZA,Mera,Rural,Hombres,4606,2729,628,1249
+PASTAZA,Mera,Rural,Mujeres,5001,1953,594,2454
+PASTAZA,Santa Clara,Urbana,Hombres,658,391,83,184
+PASTAZA,Santa Clara,Urbana,Mujeres,626,253,40,333
+PASTAZA,Santa Clara,Rural,Hombres,997,630,62,305
+PASTAZA,Santa Clara,Rural,Mujeres,929,432,36,461
+PASTAZA,Arajuno,Urbana,Hombres,757,356,122,279
+PASTAZA,Arajuno,Urbana,Mujeres,746,241,78,427
+PASTAZA,Arajuno,Rural,Hombres,2090,505,348,1237
+PASTAZA,Arajuno,Rural,Mujeres,1922,229,114,1579
+PICHINCHA,Distrito Metropolitano de Quito,Urbana,Hombres,661084,445760,47901,167423
+PICHINCHA,Distrito Metropolitano de Quito,Urbana,Mujeres,736735,400665,59501,276569
+PICHINCHA,Distrito Metropolitano de Quito,Rural,Hombres,340046,233895,22283,83868
+PICHINCHA,Distrito Metropolitano de Quito,Rural,Mujeres,372326,199225,28805,144296
+PICHINCHA,Cayambe,Urbana,Hombres,16156,11682,760,3714
+PICHINCHA,Cayambe,Urbana,Mujeres,17714,10249,902,6563
+PICHINCHA,Cayambe,Rural,Hombres,21297,14600,1219,5478
+PICHINCHA,Cayambe,Rural,Mujeres,23680,11255,1191,11234
+PICHINCHA,Mejía,Urbana,Hombres,8634,5990,576,2068
+PICHINCHA,Mejía,Urbana,Mujeres,9876,5193,771,3912
+PICHINCHA,Mejía,Rural,Hombres,27271,17819,1998,7454
+PICHINCHA,Mejía,Rural,Mujeres,30685,13680,2883,14122
+PICHINCHA,Pedro Moncayo,Urbana,Hombres,4519,3506,203,810
+PICHINCHA,Pedro Moncayo,Urbana,Mujeres,4874,2841,256,1777
+PICHINCHA,Pedro Moncayo,Rural,Hombres,9817,6704,435,2678
+PICHINCHA,Pedro Moncayo,Rural,Mujeres,10442,5558,418,4466
+PICHINCHA,Rumiñahui,Urbana,Hombres,36882,24806,2071,10005
+PICHINCHA,Rumiñahui,Urbana,Mujeres,40775,22546,2847,15382
+PICHINCHA,Rumiñahui,Rural,Hombres,4216,2756,381,1079
+PICHINCHA,Rumiñahui,Rural,Mujeres,4626,2015,467,2144
+PICHINCHA,San Miguel de los Bancos,Urbana,Hombres,1838,1209,165,464
+PICHINCHA,San Miguel de los Bancos,Urbana,Mujeres,2034,915,183,936
+PICHINCHA,San Miguel de los Bancos,Rural,Hombres,3058,2071,207,780
+PICHINCHA,San Miguel de los Bancos,Rural,Mujeres,2993,1084,157,1752
+PICHINCHA,Pedro Vicente Maldonado,Urbana,Hombres,2415,1808,79,528
+PICHINCHA,Pedro Vicente Maldonado,Urbana,Mujeres,2727,1256,152,1319
+PICHINCHA,Pedro Vicente Maldonado,Rural,Hombres,2897,2219,118,560
+PICHINCHA,Pedro Vicente Maldonado,Rural,Mujeres,2752,933,120,1699
+PICHINCHA,Puerto Quito,Urbana,Hombres,1270,904,78,288
+PICHINCHA,Puerto Quito,Urbana,Mujeres,1522,764,146,612
+PICHINCHA,Puerto Quito,Rural,Hombres,7622,5129,724,1769
+PICHINCHA,Puerto Quito,Rural,Mujeres,7485,2072,504,4909
+TUNGURAHUA,Ambato,Urbana,Hombres,66180,44318,4077,17785
+TUNGURAHUA,Ambato,Urbana,Mujeres,73940,41522,4681,27737
+TUNGURAHUA,Ambato,Rural,Hombres,68917,46701,3544,18672
+TUNGURAHUA,Ambato,Rural,Mujeres,76792,40259,3867,32666
+TUNGURAHUA,Baños de Agua Santa,Urbana,Hombres,5213,3693,204,1316
+TUNGURAHUA,Baños de Agua Santa,Urbana,Mujeres,5900,3474,277,2149
+TUNGURAHUA,Baños de Agua Santa,Rural,Hombres,3116,2116,183,817
+TUNGURAHUA,Baños de Agua Santa,Rural,Mujeres,3065,1555,144,1366
+TUNGURAHUA,Cevallos,Urbana,Hombres,1374,979,41,354
+TUNGURAHUA,Cevallos,Urbana,Mujeres,1505,806,47,652
+TUNGURAHUA,Cevallos,Rural,Hombres,2462,1673,158,631
+TUNGURAHUA,Cevallos,Rural,Mujeres,2692,1261,89,1342
+TUNGURAHUA,Mocha,Urbana,Hombres,559,370,48,141
+TUNGURAHUA,Mocha,Urbana,Mujeres,604,234,59,311
+TUNGURAHUA,Mocha,Rural,Hombres,2230,1516,146,568
+TUNGURAHUA,Mocha,Rural,Mujeres,2309,1136,121,1052
+TUNGURAHUA,Patate,Urbana,Hombres,983,660,34,289
+TUNGURAHUA,Patate,Urbana,Mujeres,1033,614,43,376
+TUNGURAHUA,Patate,Rural,Hombres,4181,2574,431,1176
+TUNGURAHUA,Patate,Rural,Mujeres,4453,1997,295,2161
+TUNGURAHUA,Quero,Urbana,Hombres,1200,813,49,338
+TUNGURAHUA,Quero,Urbana,Mujeres,1323,682,66,575
+TUNGURAHUA,Quero,Rural,Hombres,5802,4215,244,1343
+TUNGURAHUA,Quero,Rural,Mujeres,6228,2995,245,2988
+TUNGURAHUA,San Pedro de Pelileo,Urbana,Hombres,4127,2889,178,1060
+TUNGURAHUA,San Pedro de Pelileo,Urbana,Mujeres,4662,2757,203,1702
+TUNGURAHUA,San Pedro de Pelileo,Rural,Hombres,18680,12568,1116,4996
+TUNGURAHUA,San Pedro de Pelileo,Rural,Mujeres,21077,10371,1057,9649
+TUNGURAHUA,Santiago de Píllaro,Urbana,Hombres,3592,2419,180,993
+TUNGURAHUA,Santiago de Píllaro,Urbana,Mujeres,3928,2218,196,1514
+TUNGURAHUA,Santiago de Píllaro,Rural,Hombres,11850,6898,1386,3566
+TUNGURAHUA,Santiago de Píllaro,Rural,Mujeres,13533,5234,1592,6707
+TUNGURAHUA,Tisaleo,Urbana,Hombres,581,433,17,131
+TUNGURAHUA,Tisaleo,Urbana,Mujeres,616,347,21,248
+TUNGURAHUA,Tisaleo,Rural,Hombres,4608,3440,181,987
+TUNGURAHUA,Tisaleo,Rural,Mujeres,4986,2839,173,1974
+ZAMORA CHINCHIPE,Zamora,Urbana,Hombres,6270,4239,372,1659
+ZAMORA CHINCHIPE,Zamora,Urbana,Mujeres,6628,3557,471,2600
+ZAMORA CHINCHIPE,Zamora,Rural,Hombres,4520,2672,545,1303
+ZAMORA CHINCHIPE,Zamora,Rural,Mujeres,4611,1503,354,2754
+ZAMORA CHINCHIPE,Chinchipe,Urbana,Hombres,1493,848,180,465
+ZAMORA CHINCHIPE,Chinchipe,Urbana,Mujeres,1500,744,114,642
+ZAMORA CHINCHIPE,Chinchipe,Rural,Hombres,2308,1025,456,827
+ZAMORA CHINCHIPE,Chinchipe,Rural,Mujeres,2026,539,163,1324
+ZAMORA CHINCHIPE,Nangaritza,Urbana,Hombres,824,514,90,220
+ZAMORA CHINCHIPE,Nangaritza,Urbana,Mujeres,907,403,99,405
+ZAMORA CHINCHIPE,Nangaritza,Rural,Hombres,1265,468,415,382
+ZAMORA CHINCHIPE,Nangaritza,Rural,Mujeres,1210,236,138,836
+ZAMORA CHINCHIPE,Yacuambi,Urbana,Hombres,527,323,43,161
+ZAMORA CHINCHIPE,Yacuambi,Urbana,Mujeres,585,258,38,289
+ZAMORA CHINCHIPE,Yacuambi,Rural,Hombres,1566,638,192,736
+ZAMORA CHINCHIPE,Yacuambi,Rural,Mujeres,1642,296,78,1268
+ZAMORA CHINCHIPE,Yantzaza,Urbana,Hombres,4401,3006,425,970
+ZAMORA CHINCHIPE,Yantzaza,Urbana,Mujeres,4905,2375,447,2083
+ZAMORA CHINCHIPE,Yantzaza,Rural,Hombres,3482,1989,349,1144
+ZAMORA CHINCHIPE,Yantzaza,Rural,Mujeres,3478,1121,157,2200
+ZAMORA CHINCHIPE,El Pangui,Urbana,Hombres,1747,1223,133,391
+ZAMORA CHINCHIPE,El Pangui,Urbana,Mujeres,1950,943,111,896
+ZAMORA CHINCHIPE,El Pangui,Rural,Hombres,2468,1383,402,683
+ZAMORA CHINCHIPE,El Pangui,Rural,Mujeres,2463,773,189,1501
+ZAMORA CHINCHIPE,Centinela del Cóndor,Urbana,Hombres,1047,702,80,265
+ZAMORA CHINCHIPE,Centinela del Cóndor,Urbana,Mujeres,1099,499,94,506
+ZAMORA CHINCHIPE,Centinela del Cóndor,Rural,Hombres,1799,1139,232,428
+ZAMORA CHINCHIPE,Centinela del Cóndor,Rural,Mujeres,1701,518,109,1074
+ZAMORA CHINCHIPE,Palanda,Urbana,Hombres,789,497,51,241
+ZAMORA CHINCHIPE,Palanda,Urbana,Mujeres,862,394,62,406
+ZAMORA CHINCHIPE,Palanda,Rural,Hombres,2384,1329,336,719
+ZAMORA CHINCHIPE,Palanda,Rural,Mujeres,2179,575,95,1509
+ZAMORA CHINCHIPE,Paquisha,Urbana,Hombres,543,347,54,142
+ZAMORA CHINCHIPE,Paquisha,Urbana,Mujeres,561,257,41,263
+ZAMORA CHINCHIPE,Paquisha,Rural,Hombres,1101,659,187,255
+ZAMORA CHINCHIPE,Paquisha,Rural,Mujeres,1028,305,118,605
+GALAPAGOS,San Cristóbal,Urbana,Hombres,2752,2098,152,502
+GALAPAGOS,San Cristóbal,Urbana,Mujeres,2824,1759,182,883
+GALAPAGOS,San Cristóbal,Rural,Hombres,408,309,23,76
+GALAPAGOS,San Cristóbal,Rural,Mujeres,357,193,41,123
+GALAPAGOS,Isabela,Urbana,Hombres,1015,846,34,135
+GALAPAGOS,Isabela,Urbana,Mujeres,1027,686,62,279
+GALAPAGOS,Isabela,Rural,Hombres,137,96,13,28
+GALAPAGOS,Isabela,Rural,Mujeres,97,37,13,47
+GALAPAGOS,Santa Cruz,Urbana,Hombres,4777,3839,214,724
+GALAPAGOS,Santa Cruz,Urbana,Mujeres,4897,3230,352,1315
+GALAPAGOS,Santa Cruz,Rural,Hombres,1760,1362,68,330
+GALAPAGOS,Santa Cruz,Rural,Mujeres,1662,897,97,668
+SUCUMBIOS,Lago Agrio,Urbana,Hombres,19050,13062,1770,4218
+SUCUMBIOS,Lago Agrio,Urbana,Mujeres,21173,10038,2028,9107
+SUCUMBIOS,Lago Agrio,Rural,Hombres,17739,10031,2910,4798
+SUCUMBIOS,Lago Agrio,Rural,Mujeres,16536,4678,1328,10530
+SUCUMBIOS,Gonzalo Pizarro,Urbana,Hombres,742,472,114,156
+SUCUMBIOS,Gonzalo Pizarro,Urbana,Mujeres,779,346,64,369
+SUCUMBIOS,Gonzalo Pizarro,Rural,Hombres,2803,1374,586,843
+SUCUMBIOS,Gonzalo Pizarro,Rural,Mujeres,2746,845,196,1705
+SUCUMBIOS,Putumayo,Urbana,Hombres,634,390,94,150
+SUCUMBIOS,Putumayo,Urbana,Mujeres,720,309,60,351
+SUCUMBIOS,Putumayo,Rural,Hombres,2486,1271,413,802
+SUCUMBIOS,Putumayo,Rural,Mujeres,2246,513,205,1528
+SUCUMBIOS,Shushufindi,Urbana,Hombres,5646,3842,676,1128
+SUCUMBIOS,Shushufindi,Urbana,Mujeres,5998,2471,773,2754
+SUCUMBIOS,Shushufindi,Rural,Hombres,12198,6366,2435,3397
+SUCUMBIOS,Shushufindi,Rural,Mujeres,11411,2321,1284,7806
+SUCUMBIOS,Sucumbíos,Urbana,Hombres,257,172,24,61
+SUCUMBIOS,Sucumbíos,Urbana,Mujeres,285,123,22,140
+SUCUMBIOS,Sucumbíos,Rural,Hombres,982,635,70,277
+SUCUMBIOS,Sucumbíos,Rural,Mujeres,909,278,47,584
+SUCUMBIOS,Cascales,Urbana,Hombres,865,562,78,225
+SUCUMBIOS,Cascales,Urbana,Mujeres,943,398,55,490
+SUCUMBIOS,Cascales,Rural,Hombres,3164,1857,343,964
+SUCUMBIOS,Cascales,Rural,Mujeres,2944,754,147,2043
+SUCUMBIOS,Cuyabeno,Urbana,Hombres,660,418,94,148
+SUCUMBIOS,Cuyabeno,Urbana,Mujeres,600,302,47,251
+SUCUMBIOS,Cuyabeno,Rural,Hombres,2476,1212,340,924
+SUCUMBIOS,Cuyabeno,Rural,Mujeres,2257,554,123,1580
+ORELLANA,Francisco de Orellana,Urbana,Hombres,17484,11384,2472,3628
+ORELLANA,Francisco de Orellana,Urbana,Mujeres,18429,7947,2321,8161
+ORELLANA,Francisco de Orellana,Rural,Hombres,14413,6748,2936,4729
+ORELLANA,Francisco de Orellana,Rural,Mujeres,13077,2607,1262,9208
+ORELLANA,Aguarico,Urbana,Hombres,234,126,44,64
+ORELLANA,Aguarico,Urbana,Mujeres,236,98,28,110
+ORELLANA,Aguarico,Rural,Hombres,1926,681,291,954
+ORELLANA,Aguarico,Rural,Mujeres,1797,230,109,1458
+ORELLANA,La Joya de los Sachas,Urbana,Hombres,5536,4096,414,1026
+ORELLANA,La Joya de los Sachas,Urbana,Mujeres,5831,2807,582,2442
+ORELLANA,La Joya de los Sachas,Rural,Hombres,12655,8300,1237,3118
+ORELLANA,La Joya de los Sachas,Rural,Mujeres,11988,3393,737,7858
+ORELLANA,Loreto,Urbana,Hombres,1749,1112,232,405
+ORELLANA,Loreto,Urbana,Mujeres,1887,764,161,962
+ORELLANA,Loreto,Rural,Hombres,7024,2673,1300,3051
+ORELLANA,Loreto,Rural,Mujeres,6436,1300,409,4727
+SANTO DOMINGO DE LOS TSACHILAS,Santo Domingo,Urbana,Hombres,114060,74758,10751,28551
+SANTO DOMINGO DE LOS TSACHILAS,Santo Domingo,Urbana,Mujeres,129521,52737,10965,65819
+SANTO DOMINGO DE LOS TSACHILAS,Santo Domingo,Rural,Hombres,39676,26817,3106,9753
+SANTO DOMINGO DE LOS TSACHILAS,Santo Domingo,Rural,Mujeres,38507,10868,2076,25563
+SANTO DOMINGO DE LOS TSACHILAS,La Concordia,Urbana,Hombres,11481,6915,1271,3295
+SANTO DOMINGO DE LOS TSACHILAS,La Concordia,Urbana,Mujeres,13184,4223,1367,7594
+SANTO DOMINGO DE LOS TSACHILAS,La Concordia,Rural,Hombres,5520,3849,434,1237
+SANTO DOMINGO DE LOS TSACHILAS,La Concordia,Rural,Mujeres,5500,1480,307,3713
+SANTA ELENA,Santa Elena,Urbana,Hombres,18724,11517,2341,4866
+SANTA ELENA,Santa Elena,Urbana,Mujeres,20561,6792,2204,11565
+SANTA ELENA,Santa Elena,Rural,Hombres,46289,29605,5626,11058
+SANTA ELENA,Santa Elena,Rural,Mujeres,45874,10903,2648,32323
+SANTA ELENA,La Libertad,Urbana,Hombres,38299,23133,5373,9793
+SANTA ELENA,La Libertad,Urbana,Mujeres,41707,12648,4213,24846
+SANTA ELENA,La Libertad,Rural,Hombres,31,14,6,11
+SANTA ELENA,La Libertad,Rural,Mujeres,28,6,4,18
+SANTA ELENA,Salinas,Urbana,Hombres,12959,7467,1968,3524
+SANTA ELENA,Salinas,Urbana,Mujeres,13199,3801,1195,8203
+SANTA ELENA,Salinas,Rural,Hombres,17405,10451,2368,4586
+SANTA ELENA,Salinas,Rural,Mujeres,18286,4782,1771,11733
